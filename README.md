@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anthonythanpoovong
+- 👋 Hi, I’m Anthony Thanpoovong 
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning JavaScript and more specifically the platform Node.Js
 - 💞️ I’m looking to collaborate on Phone App Development
