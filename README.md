@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anthony Thanpoovong 
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning JavaScript and more specifically the platform Node.Js
-- 💞️ I’m looking to collaborate on Phone App Development
+- 👀 I’m interested in software development, security engineering, and AI related work 
+- 🌱 I’m currently navigating through my 20's
+- 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me thanpoovong84@gmail.com
 
 <!---
