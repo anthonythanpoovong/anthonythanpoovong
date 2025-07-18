@@ -13,7 +13,6 @@ I'm a Software Engineer Graduate from Toronto Metropolitan with a passion for so
 
 ## 💻 Tech Stack:
 
-###Languages&Frameworks
 [![Languages&Frameworks](https://skillicons.dev/icons?i=python,java,sqlite,c,js,html,css,ts,tailwind,react,)](https://skillicons.dev)
 
 [![Languages&Frameworks](https://skillicons.dev/icons?i=python,java,sqlite,c,js,html,css,ts,tailwind,react,)](https://skillicons.dev)
