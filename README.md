@@ -15,6 +15,6 @@ I'm a Software Engineer Graduate from Toronto Metropolitan with a passion for so
 
 [![Languages&Frameworks](https://skillicons.dev/icons?i=python,java,sqlite,c,js,html,css,ts,tailwind,react,)](https://skillicons.dev)
 
-[![Languages&Frameworks](https://skillicons.dev/icons?i=python,java,sqlite,c,js,html,css,ts,tailwind,react,)](https://skillicons.dev)
+[![Tools&Libraries](https://skillicons.dev/icons?i=linux,git,bash,docker,kubernetes,django,mysql,fastapi,nextjs,nodejs,rabbitmq,selenium,tensorflow,aws,azure,)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonythanpoovong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
