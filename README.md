@@ -19,4 +19,4 @@ I'm a Software Engineer Graduate from Toronto Metropolitan with a passion for so
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonythanpoovong&show_icons=true&theme=nightowl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythanpoovong&hide_progress=true&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythanpoovong&&layout=compact&stats_format=bytes)
