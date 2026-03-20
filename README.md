@@ -18,3 +18,5 @@ I'm a Software Engineer Graduate from Toronto Metropolitan with a passion for so
 [![Tools&Libraries](https://skillicons.dev/icons?i=linux,git,bash,docker,kubernetes,django,mysql,rabbitmq,selenium,tensorflow,vim,aws,azure,)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonythanpoovong&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonythanpoovong&stats_format=bytes)
